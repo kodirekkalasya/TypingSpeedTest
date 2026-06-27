@@ -19,6 +19,7 @@ Typing Speed Test is a Python application that measures typing speed, accuracy, 
  ## project structure
  |-main.py
  |-Screen shot
+ |-REDME.md
  ## Author
  Kodirekka lasya
  B.Tech(AI & DS)
